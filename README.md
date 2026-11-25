@@ -1,6 +1,6 @@
 # Sociam API
 
-Sociam API is a modern social media platform backend that enables real-time messaging, group interactions, notifications, and seamless social connections. Build engaging social experiences with our robust, scalable API.
+Sociam is the backend API for a social media platform: real-time messaging, group chats, posts and stories, likes and comments, notifications, and secure authentication (JWT, 2FA, Google and Facebook login).
 
 ## ✨ Features
 
@@ -40,7 +40,7 @@ Sociam follows clean architecture principles:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/NetNinjaEngineer/Sociam.git
+   git clone https://github.com/mohamedelhelaly02/Sociam.git
    ```
 
 2. Configure `appsettings.json` with your credentials:
